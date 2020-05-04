@@ -5,7 +5,7 @@
 	<link rel="stylesheet" type="text/css" href="">
 </head>
 <body>
-<p>данные текс для тестирования измениний на git</p>
+<p>точно</p>
 <script type="text/javascript" href=""></script>
 </body>
 </html>
